@@ -7,8 +7,8 @@ public class fizzbuzz{
 		return false;
 	}
 
-    public static boolean isbuzz(int number){
-        return number % 5 == 0
+   	public static boolean isbuzz(int number){
+        	return number % 5 == 0
     }
-\
+
 }
